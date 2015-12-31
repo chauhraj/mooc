@@ -5,3 +5,4 @@ data/
 .classpath
 .project
 lib/
+.ipynb_checkpoints/
